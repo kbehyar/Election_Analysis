@@ -38,4 +38,3 @@ This script can be used to determine the winners of any elections. Some modifica
 
 - If a new CSV file is used with more data is used to analysis, the code needs to be adjusted as to which columns hold which information. for exmaple: Gender of candidates can be row[1], Ethnicity = row [3].
 - This code can also be adjusted to determine in which counties did each of the candidates received the most votes to determine in which places were each of the candidates more popular 
-- 
